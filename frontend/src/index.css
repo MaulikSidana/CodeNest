@@ -1,0 +1,14 @@
+@import "tailwindcss";
+
+
+.gutter {
+  background-color: #e5e7eb;
+}
+
+.gutter.gutter-horizontal {
+  cursor: col-resize;
+}
+
+.gutter.gutter-vertical {
+  cursor: row-resize;
+}
